@@ -1,0 +1,6 @@
+# CMake
+/target/
+
+# VSCodium
+/.metals/
+/.vscode/
